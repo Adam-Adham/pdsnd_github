@@ -13,6 +13,10 @@ The Python program allows the user to choose a city, month, and day to filter th
 After receiving the user input, the program displays useful statistics about bikeshare usage, including popular travel times, common stations, trip durations, and user information.
 
 
+### Program Features
+The program calculates and displays the most common travel times, popular stations, trip duration statistics, user type counts, and raw data when requested by the user.
+
+
 ### Files used
 The project uses the following files:
 
