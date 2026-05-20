@@ -27,6 +27,12 @@ The project uses the following files:
 - `.gitignore`: Used to prevent dataset CSV files from being uploaded to GitHub.
 - `README.md`: Provides project information and documentation.
 
+
+### How to run the program
+To run the project, open the terminal in the project folder and use:
+python bikeshare.py
+
+
 ### Credits
 This project was completed as part of the Udacity Programming for Data Science Nanodegree.
 https://github.com/udacity/pdsnd_github
